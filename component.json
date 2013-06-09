@@ -1,0 +1,17 @@
+{
+  "name": "calendar-today",
+  "repo": "JayceTDE/calendar-today",
+  "description": "Mark today on the calendar",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "JayceTDE/calendar": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": []
+}
